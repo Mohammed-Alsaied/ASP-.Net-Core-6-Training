@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP .Net Core Big Picture", "ASP .Net Core Big Picture\ASP .Net Core Big Picture.csproj", "{166FB5E8-9CF8-48BB-8056-68E4DCF23781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166FB5E8-9CF8-48BB-8056-68E4DCF23781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166FB5E8-9CF8-48BB-8056-68E4DCF23781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166FB5E8-9CF8-48BB-8056-68E4DCF23781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166FB5E8-9CF8-48BB-8056-68E4DCF23781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8057E39-A955-4B50-8D8E-7BB3676F625A}
+	EndGlobalSection
+EndGlobal
